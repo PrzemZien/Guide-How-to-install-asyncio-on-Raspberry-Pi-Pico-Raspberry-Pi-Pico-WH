@@ -24,7 +24,7 @@ After downloading the ZIP file, open it and navigate to the `lib` folder inside 
 
 Locate the following two files:  
 - `asyncio` (folder)  
-- `adafruit_ticks.mpy` (file) 
+- `adafruit_ticks.mpy` (file)
 
 ![alt text](Images/4.png)
 
@@ -33,6 +33,12 @@ Locate the following two files:
 
 
 ![alt text](Images/6.png)
+
+Copy **both** the `asyncio` folder and `adafruit_ticks.mpy` file to the `lib` folder on your CIRCUITPY drive.  
+
+Your `lib` folder should now contain: 
+
+![alt text](Images/7.png)
 
 ### **Step 4: Verify Installation** 
 
