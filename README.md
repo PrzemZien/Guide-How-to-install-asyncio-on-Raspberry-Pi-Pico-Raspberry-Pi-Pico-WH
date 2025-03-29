@@ -2,7 +2,7 @@
 
 First, create lib folder in you CIRCUITPY(D:)
 
-![alt text](1.jpg)
+![alt text](Images/1.jpg)
 
 
 ![alt text](2.jpg)
